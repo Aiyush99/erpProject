@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952859684280",
+    "project_id": "erpproject-11a45",
+    "storage_bucket": "erpproject-11a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952859684280:android:59155dbdca066130a3734d",
+        "android_client_info": {
+          "package_name": "com.erpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGPHo9lw5IRXqdv2zYGiY3TjVcJfnUgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
